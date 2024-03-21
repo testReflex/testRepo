@@ -1,0 +1,24 @@
+2024-03-07 22:39:47,830 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-07 22:40:53,731 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ru.iaie.reflex.generator:r2c:0.0.1-SNAPSHOT @ D:\reflex_ideshka\reflex-2-0-ide\ru.iaie.reflex.generator.r2c\pom.xml.
+2024-03-07 22:40:54,741 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-07 22:40:54,754 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 15 resources from src to target\classes
+2024-03-07 22:40:54,821 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from lib to target\classes
+2024-03-07 22:40:54,828 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 36 resources from xtend-gen to target\classes
+2024-03-07 22:40:54,857 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-07 22:40:54,861 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\reflex_ideshka\reflex-2-0-ide\ru.iaie.reflex.generator.r2c\src\test\resources
+2024-03-07 22:42:10,337 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-07 22:42:10,342 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 15 resources from src to target\classes
+2024-03-07 22:42:10,392 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from lib to target\classes
+2024-03-07 22:42:10,396 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 36 resources from xtend-gen to target\classes
+2024-03-07 22:42:10,417 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-07 22:42:10,421 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\reflex_ideshka\reflex-2-0-ide\ru.iaie.reflex.generator.r2c\src\test\resources
+2024-03-07 22:43:16,835 [Worker-11: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-07 22:43:16,842 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 15 resources from src to target\classes
+2024-03-07 22:43:16,903 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from lib to target\classes
+2024-03-07 22:43:16,908 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 36 resources from xtend-gen to target\classes
+2024-03-07 22:43:16,977 [Worker-11: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-07 22:43:16,983 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\reflex_ideshka\reflex-2-0-ide\ru.iaie.reflex.generator.r2c\src\test\resources
+2024-03-15 12:59:44,960 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-16 15:29:07,508 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-18 15:54:05,361 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-21 16:53:36,437 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
